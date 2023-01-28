@@ -1,3 +1,4 @@
+/*write a program in java to find prime numbers between 1-100.*/
 import java.lang.*;
 public class primenumbers {
     public static void main(String[] args) {
