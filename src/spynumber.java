@@ -1,3 +1,4 @@
+
 /* Write a program in java to find given number is a spy number or not.
 A positive integer is called a spy number if the sum and product of its digits are
 equal. In other words, a number whose sum and product of all digits are equal is
