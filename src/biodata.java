@@ -1,4 +1,3 @@
-/*Write a Program in java to print your bio-data using System.out.println() function.*/
 import java.lang.*;
 public class biodata
 {

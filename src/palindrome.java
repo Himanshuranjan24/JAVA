@@ -1,3 +1,4 @@
+
 /* Write a Program in java to check given numbers are palindrome or armstrong?*/
 import java.lang.*;
 import java.util.*;
