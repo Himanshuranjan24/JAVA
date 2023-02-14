@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6b992bc-3e69-4cb8-b9b3-8c98c917562e" name="Changes" comment="java">
-      <change afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Complex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Objectcounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student.java" afterDir="false" />
+    <list default="true" id="c6b992bc-3e69-4cb8-b9b3-8c98c917562e" name="Changes" comment="JAVA">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/biodata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/biodata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/loopone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/looptwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/looptwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/numberintowords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numberintowords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +26,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -46,20 +45,6 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="biodata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="biodata" />
-      <module name="JAVALAB" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.biodata" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -90,6 +75,9 @@
       <option name="project" value="LOCAL" />
       <updated>1674899429283</updated>
     </task>
+<<<<<<<<< Temporary merge branch 1
+    <option name="localTasksCounter" value="4" />
+=========
     <task id="LOCAL-00004" summary="JAVA">
       <created>1674901652855</created>
       <option name="number" value="00004" />
@@ -111,14 +99,8 @@
       <option name="project" value="LOCAL" />
       <updated>1675771631475</updated>
     </task>
-    <task id="LOCAL-00007" summary="java">
-      <created>1675867077241</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1675867077241</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="7" />
+>>>>>>>>> Temporary merge branch 2
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,8 +116,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JAVA" />
-    <MESSAGE value="java" />
-    <option name="LAST_COMMIT_MESSAGE" value="java" />
-    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="JAVA" />
   </component>
 </project>

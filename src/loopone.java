@@ -1,12 +1,12 @@
-
+<<<<<<<<< Temporary merge branch 1
+=========
 /* Write a Program in java to print the following patterns using for loops?
         *000*000*
         0*00*00*0
         00*0*0*00
         000***000
-
- */
-
+        */
+>>>>>>>>> Temporary merge branch 2
 import java.lang.*;
 import java.util.*;
 public class loopone {
