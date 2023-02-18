@@ -6,12 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c6b992bc-3e69-4cb8-b9b3-8c98c917562e" name="Changes" comment="JAVA">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/biodata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/biodata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Complex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Complex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/loopone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/looptwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/looptwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numberintowords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numberintowords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +36,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
+    &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
-  }
-}</component>
+    }
+    }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,9 +71,6 @@
       <option name="project" value="LOCAL" />
       <updated>1674899429283</updated>
     </task>
-<<<<<<<<< Temporary merge branch 1
-    <option name="localTasksCounter" value="4" />
-=========
     <task id="LOCAL-00004" summary="JAVA">
       <created>1674901652855</created>
       <option name="number" value="00004" />
@@ -100,7 +93,6 @@
       <updated>1675771631475</updated>
     </task>
     <option name="localTasksCounter" value="7" />
->>>>>>>>> Temporary merge branch 2
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
