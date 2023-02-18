@@ -14,7 +14,6 @@ public class Complex {
         System.out.print("Enter the imaginary part: ");
         imaginary = input.nextDouble();
     }
-
     public void display() {
         System.out.println(real + " + " + imaginary + "i");
     }
