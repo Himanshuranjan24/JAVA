@@ -1,11 +1,11 @@
 /* Write a program in java to create a class Distance having feet and inches as data members and
         perform following operations with funcitons
         A. Add two distances
-        B. Subtract two distances*/
+        B. Subtract two distances.*/
 import java.lang.*;
 import java.util.*;
 
-public class AddsubTwoDistance {
+public class AddsubTwoDistance{
     private int feet;
     private int inches;
     public AddsubTwoDistance(int feet, int inches) {

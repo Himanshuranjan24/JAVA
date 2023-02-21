@@ -18,7 +18,7 @@ public class array {
         for(int i=0;i<number.length-1;i++)
         {
             if((number[i]-number[i+1])==0)
-                System.out.println("the pair which statisfy the given condition:("+number[i]+","+number[i+1]+")");
+                System.out.println("the pair which satisfy the given condition:("+number[i]+","+number[i+1]+")");
         }
     }
 }
