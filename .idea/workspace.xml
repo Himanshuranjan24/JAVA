@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6b992bc-3e69-4cb8-b9b3-8c98c917562e" name="Changes" comment="java">
+    <list default="true" id="c6b992bc-3e69-4cb8-b9b3-8c98c917562e" name="Changes" comment="JAVA">
+      <change afterPath="$PROJECT_DIR$/src/childaddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dtl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/savingaccont.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/areamember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/areamember.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/created.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/created.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,29 +37,27 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
-    &quot;keyToString&quot;: {
+  &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
 
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
-    }
-    }</component>
+  }
+}</component>
   <component name="RunManager">
     <configuration name="commanddisplay" type="Java Scratch">
-      <option name="ALTERNATIVE_JRE_PATH" value="19" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="commanddisplay" />
       <module name="JAVALAB" />
-      <option name="PROGRAM_PARAMETERS" value="Himanshu Abhishek Avirup Agniva Sahil" />
+      <option name="PROGRAM_PARAMETERS" value="Himanshu Aashu Ankur Dhoni Stark" />
       <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/src/commanddisplay.java" />
       <shortenClasspath name="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="largest integer" type="Java Scratch">
+    <configuration name="commandlargest" type="Java Scratch">
       <option name="MAIN_CLASS_NAME" value="commandlargest" />
       <module name="JAVALAB" />
-      <option name="PROGRAM_PARAMETERS" value="15 5 20 25 35" />
+      <option name="PROGRAM_PARAMETERS" value="15 20 05 35 11" />
       <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/src/commandlargest.java" />
       <shortenClasspath name="NONE" />
       <method v="2">
@@ -66,8 +65,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Java Scratch.largest integer" />
       <item itemvalue="Java Scratch.commanddisplay" />
+      <item itemvalue="Java Scratch.commandlargest" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -121,14 +120,7 @@
       <option name="project" value="LOCAL" />
       <updated>1675771631475</updated>
     </task>
-    <task id="LOCAL-00007" summary="JAVA">
-      <created>1676707603826</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1676707603826</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,7 +135,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/loopone.java" />
     <MESSAGE value="JAVA" />
     <option name="LAST_COMMIT_MESSAGE" value="JAVA" />
   </component>
