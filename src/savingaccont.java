@@ -31,14 +31,14 @@ public class savingaccont {
     }
 
     public static void main(String[] args) {
-        savingaccont saver1 = new savingaccont(5000.0);
-        savingaccont saver2 = new savingaccont(6000.0);
-        savingaccont.modify_Interest_Rate(0.05);
+        savingaccont saver1 = new savingaccont(2000.0);
+        savingaccont saver2 = new savingaccont(3000.0);
+        savingaccont.modify_Interest_Rate(0.04);
         saver1.calculate_Monthly_Interest();
         saver2.calculate_Monthly_Interest();
         System.out.println("Saver 1 balance after 1 month: " + saver1.get_Savings_Balance());
         System.out.println("Saver 2 balance after 1 month: " + saver2.get_Savings_Balance());
-        savingaccont.modify_Interest_Rate(0.06);
+        savingaccont.modify_Interest_Rate(0.05);
         saver1.calculate_Monthly_Interest();
         saver2.calculate_Monthly_Interest();
         System.out.println("Saver 1 balance after 2 months: " + saver1.get_Savings_Balance());

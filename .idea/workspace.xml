@@ -43,7 +43,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Java Scratch.commanddisplay">
     <configuration name="commanddisplay" type="Java Scratch">
       <option name="MAIN_CLASS_NAME" value="commanddisplay" />
       <module name="JAVALAB" />
